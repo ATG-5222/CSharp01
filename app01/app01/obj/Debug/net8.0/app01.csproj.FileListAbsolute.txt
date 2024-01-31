@@ -1,0 +1,15 @@
+D:\DocumentosDD\Cursos\C#_1\CSharp01\app01\app01\bin\Debug\net8.0\app01.exe
+D:\DocumentosDD\Cursos\C#_1\CSharp01\app01\app01\bin\Debug\net8.0\app01.deps.json
+D:\DocumentosDD\Cursos\C#_1\CSharp01\app01\app01\bin\Debug\net8.0\app01.runtimeconfig.json
+D:\DocumentosDD\Cursos\C#_1\CSharp01\app01\app01\bin\Debug\net8.0\app01.dll
+D:\DocumentosDD\Cursos\C#_1\CSharp01\app01\app01\bin\Debug\net8.0\app01.pdb
+D:\DocumentosDD\Cursos\C#_1\CSharp01\app01\app01\obj\Debug\net8.0\app01.GeneratedMSBuildEditorConfig.editorconfig
+D:\DocumentosDD\Cursos\C#_1\CSharp01\app01\app01\obj\Debug\net8.0\app01.AssemblyInfoInputs.cache
+D:\DocumentosDD\Cursos\C#_1\CSharp01\app01\app01\obj\Debug\net8.0\app01.AssemblyInfo.cs
+D:\DocumentosDD\Cursos\C#_1\CSharp01\app01\app01\obj\Debug\net8.0\app01.csproj.CoreCompileInputs.cache
+D:\DocumentosDD\Cursos\C#_1\CSharp01\app01\app01\obj\Debug\net8.0\app01.sourcelink.json
+D:\DocumentosDD\Cursos\C#_1\CSharp01\app01\app01\obj\Debug\net8.0\app01.dll
+D:\DocumentosDD\Cursos\C#_1\CSharp01\app01\app01\obj\Debug\net8.0\refint\app01.dll
+D:\DocumentosDD\Cursos\C#_1\CSharp01\app01\app01\obj\Debug\net8.0\app01.pdb
+D:\DocumentosDD\Cursos\C#_1\CSharp01\app01\app01\obj\Debug\net8.0\app01.genruntimeconfig.cache
+D:\DocumentosDD\Cursos\C#_1\CSharp01\app01\app01\obj\Debug\net8.0\ref\app01.dll

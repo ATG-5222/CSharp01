@@ -1,0 +1,15 @@
+D:\DocumentosDD\Cursos\C#_1\CSharp01\app02\app02\bin\Debug\net8.0\app02.exe
+D:\DocumentosDD\Cursos\C#_1\CSharp01\app02\app02\bin\Debug\net8.0\app02.deps.json
+D:\DocumentosDD\Cursos\C#_1\CSharp01\app02\app02\bin\Debug\net8.0\app02.runtimeconfig.json
+D:\DocumentosDD\Cursos\C#_1\CSharp01\app02\app02\bin\Debug\net8.0\app02.dll
+D:\DocumentosDD\Cursos\C#_1\CSharp01\app02\app02\bin\Debug\net8.0\app02.pdb
+D:\DocumentosDD\Cursos\C#_1\CSharp01\app02\app02\obj\Debug\net8.0\app02.GeneratedMSBuildEditorConfig.editorconfig
+D:\DocumentosDD\Cursos\C#_1\CSharp01\app02\app02\obj\Debug\net8.0\app02.AssemblyInfoInputs.cache
+D:\DocumentosDD\Cursos\C#_1\CSharp01\app02\app02\obj\Debug\net8.0\app02.AssemblyInfo.cs
+D:\DocumentosDD\Cursos\C#_1\CSharp01\app02\app02\obj\Debug\net8.0\app02.csproj.CoreCompileInputs.cache
+D:\DocumentosDD\Cursos\C#_1\CSharp01\app02\app02\obj\Debug\net8.0\app02.sourcelink.json
+D:\DocumentosDD\Cursos\C#_1\CSharp01\app02\app02\obj\Debug\net8.0\app02.dll
+D:\DocumentosDD\Cursos\C#_1\CSharp01\app02\app02\obj\Debug\net8.0\refint\app02.dll
+D:\DocumentosDD\Cursos\C#_1\CSharp01\app02\app02\obj\Debug\net8.0\app02.pdb
+D:\DocumentosDD\Cursos\C#_1\CSharp01\app02\app02\obj\Debug\net8.0\app02.genruntimeconfig.cache
+D:\DocumentosDD\Cursos\C#_1\CSharp01\app02\app02\obj\Debug\net8.0\ref\app02.dll
